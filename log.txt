@@ -1,0 +1,4 @@
+commit de93878530ea34ad3fbb06c6d83f0a60b899e3e2 (HEAD -> logs, 
+origin/master, master)
+Author: unknown <angela.avramovska@students.finki.ukim.mk>
+Date:   Thu Apr 4 10:30:40 2019 +0200
